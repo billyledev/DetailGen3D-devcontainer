@@ -1,0 +1,11 @@
+diffusers
+transformers
+einops
+huggingface_hub
+opencv-python
+trimesh
+omegaconf
+scikit-image
+numpy==1.22.3
+jaxtyping
+typeguard

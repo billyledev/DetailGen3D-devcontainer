@@ -1,0 +1,3 @@
+[submodule "DetailGen3D"]
+	path = DetailGen3D
+	url = https://github.com/VAST-AI-Research/DetailGen3D
